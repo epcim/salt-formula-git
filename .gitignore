@@ -1,3 +1,7 @@
 tests/build/
 *.swp
 *.pyc
+.venv/
+srv/
+.kitchen
+Gemfile.lock
